@@ -1,0 +1,80 @@
+{
+ "30": [
+  "https://download.quranicaudio.com/quran/sa3d_al-ghaamidi/complete/{pad}.mp3"
+ ],
+ "48": [
+  "https://download.quranicaudio.com/quran/ahmed_ibn_3ali_al-3ajamy/{pad}.mp3"
+ ],
+ "106": [
+  "https://download.quranicaudio.com/quran/sa3ood_al-shuraym/{pad}.mp3"
+ ],
+ "107": [
+  "https://download.quranicaudio.com/quran/mahmood_khaleel_al-husaree/{pad}.mp3"
+ ],
+ "112": [
+  "https://download.quranicaudio.com/quran/abu_bakr_ash-shaatree/{pad}.mp3"
+ ],
+ "129": [
+  "https://download.quranicaudio.com/quran/abdul_basit_murattal/{pad}.mp3",
+  "https://cdn.islamic.network/quran/audio-surah/128/ar.abdulbasitmurattal/{n}.mp3"
+ ],
+ "132": [
+  "https://download.quranicaudio.com/quran/abdurrahmaan_as-sudays/{pad}.mp3"
+ ],
+ "185": [
+  "https://download.quranicaudio.com/quran/mohammad_altablawi/{pad}.mp3"
+ ],
+ "197": [
+  "https://download.quranicaudio.com/quran/muhammad_siddeeq_al-minshaawee/{pad}.mp3"
+ ],
+ "212": [
+  "https://download.quranicaudio.com/quran/mishaari_raashid_al_3afaasee/{pad}.mp3",
+  "https://cdn.islamic.network/quran/audio-surah/128/ar.alafasy/{n}.mp3"
+ ],
+ "250": [
+  "https://download.quranicaudio.com/quran/muhammad_alhaidan/{pad}.mp3"
+ ],
+ "304": [
+  "https://download.quranicaudio.com/quran/fares/{pad}.mp3"
+ ],
+ "129001": [
+  "https://download.quranicaudio.com/quran/mostafa_ismaeel/{pad}.mp3"
+ ],
+ "900002": [
+  "https://download.quranicaudio.com/quran/minshawi_mujawwad/{pad}.mp3"
+ ],
+ "900006": [
+  "https://download.quranicaudio.com/quran/abdulbaset_mujawwad/{pad}.mp3"
+ ],
+ "_help": "خوادم إضافية لكل قارئ: {\"رقم_القارئ\":[\"https://host/path/{pad}.mp3\"]} — يولّدها tools/verify-mirrors.js --discover --write",
+ "15": [
+  "https://cdn.mp3quran.net/audio/ahmad-naina/r1/{pad}.mp3"
+ ],
+ "121": [
+  "https://cdn.mp3quran.net/audio/mahmoud-banna/r1/{pad}.mp3"
+ ],
+ "217": [
+  "https://cdn.mp3quran.net/audio/bandar-baleela/r1/{pad}.mp3"
+ ],
+ "227": [
+  "https://cdn.mp3quran.net/audio/nasser-qatami/r1/{pad}.mp3"
+ ],
+ "239": [
+  "https://cdn.mp3quran.net/audio/yasser-dosari/r1/{pad}.mp3"
+ ],
+ "287": [
+  "https://cdn.mp3quran.net/audio/abdulrahman-shahat/r1/{pad}.mp3"
+ ],
+ "301": [
+  "https://cdn.mp3quran.net/audio/idrees-abkar/r1/{pad}.mp3"
+ ],
+ "302": [
+  "https://cdn.mp3quran.net/audio/zaki-daghistani/r1/{pad}.mp3"
+ ],
+ "129003": [
+  "https://cdn.mp3quran.net/audio/shaban-sayyad/r1/{pad}.mp3"
+ ],
+ "60": [
+  "https://cdn.mp3quran.net/audio/muhammad-refaat/r1/{pad}.mp3"
+ ]
+}
